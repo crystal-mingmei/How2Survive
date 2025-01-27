@@ -1,0 +1,9 @@
+{
+    "editor.renderControlCharacters": true, // 显示控制字符
+    "editor.renderWhitespace": "all", // 渲染全部空白
+    "files.exclude": {
+        "**/.git": false,
+        "**/.vscode": false,
+        ".vscode": false
+    }
+}
