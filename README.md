@@ -62,17 +62,26 @@
 <!--
 
 git add README.md;
-git commit -m $(date +%g%m%d%H%M); git push;
+git commit -m $(TZ="Asia/Shanghai" date +%g%m%d%H%M%z); git push;
 
 
 date +%g%m%d%H%M%z
+
+这两个都是，时间变了但后面的时区依然是格林尼治时间
 date --date='TZ="America/Los_Angeles"' +%g%m%d%H%M%z
 date --date='TZ="Asia/Shanghai"' +%g%m%d%H%M%z
+这个是有效的
+TZ="Asia/Shanghai" date +%g%m%d%H%M%z
+
 
 写日记
 建立笔记系统
 复盘总结
 
+
+什么是 日耳蛮学
+    种姓
+    赢学
 -->
 
 ## 如何保证安全
