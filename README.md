@@ -1,5 +1,24 @@
 # How2Survive
 
+<!--
+
+https://github.com/crystal-mingmei
+
+git add README.md;
+git commit -m $(TZ="Asia/Shanghai" date +%g%m%d%H%M%z); git push;
+
+
+date +%g%m%d%H%M%z
+
+这两个都是，时间变了但后面的时区依然是格林尼治时间
+date --date='TZ="America/Los_Angeles"' +%g%m%d%H%M%z
+date --date='TZ="Asia/Shanghai"' +%g%m%d%H%M%z
+这个是有效的
+TZ="Asia/Shanghai" date +%g%m%d%H%M%z
+
+
+-->
+
 这是一个描述男性如何在二十一世纪二十年代生存下去的仓库
 
 这个仓库的作者是一个生长在南方中国的汉族男性。
@@ -26,7 +45,12 @@
 - 第一份正式的工作
 - 结婚
 - 买房
+- 装修
+    - 硬装
+    - 软转
 - 买车
+- 买车位
+- 备孕/怀孕/生产
 
 关键理论
 - 第一性原理
@@ -64,17 +88,6 @@
 人体系统调优不完全指南 https://github.com/zijie0/HumanSystemOptimization
 程序员延寿指南 https://github.com/geekan/HowToLiveLonger
 
-git add README.md;
-git commit -m $(TZ="Asia/Shanghai" date +%g%m%d%H%M%z); git push;
-
-
-date +%g%m%d%H%M%z
-
-这两个都是，时间变了但后面的时区依然是格林尼治时间
-date --date='TZ="America/Los_Angeles"' +%g%m%d%H%M%z
-date --date='TZ="Asia/Shanghai"' +%g%m%d%H%M%z
-这个是有效的
-TZ="Asia/Shanghai" date +%g%m%d%H%M%z
 
 
 写日记
@@ -87,6 +100,16 @@ TZ="Asia/Shanghai" date +%g%m%d%H%M%z
     赢学
 
 理论大家都懂，但真的执行起来却依然很困难
+
+
+批判性思维 和 中国人相处的常见逻辑谬误
+    原理
+    例子
+    应对方式
+人类 使用 自然语言 进行的 冲突 ？
+没有外力加持，冲突会陷入一个循环？人类的本质是复读机？
+
+学校 职场 社会 常见的冲突及对应方式
 
 
 https://zh.wikipedia.org/wiki/FIRE%E8%BF%90%E5%8A%A8
@@ -162,8 +185,8 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
         - 2型糖尿病
         - 打鼾
         - 腿部的静脉曲张
-        - 肚腩
         - 疝气
+        - 阑尾炎
         - 便秘
         - 痔疮
         - 肠胃炎
@@ -185,6 +208,7 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
             - 高低肩、脊柱侧弯、X型腿、O型腿、扁平足、足外翻、足内翻、内八字、长短腿
             - 肋骨外翻 富贵包 
         - 肥胖
+            - 肚腩
             - 皮下脂肪
             - 内脏脂肪
         - 膝盖/半月板
@@ -216,11 +240,25 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
 
 开源和节流，开源比节流重要，节流比开源简单
 
+赚钱的关键在于两点
+    机会
+    能力
+如果有机会，却没有能力时怎么办
+    把机会分包给有能力的人，然后共享收益
+    把机会卖给有能力的人
+所以，机会大多数情况下比能力重要
 
+
+机会是由权力来分配的
+权力是由暴力来保证的
 
 ## 如何应对不友好的人
 ## 如何找到女朋友
 ## 如何使生活变得幸福
+
+什么是幸福
+    幸福 -> 更多的选择 -> 物质 -> 钱 -> 赚钱的机会
+
 
 了解世界
 了解自己
@@ -252,12 +290,14 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
     - 执行的过程中出现了细节上的错误（就是自己不够细心）
     - 因为错误的知识或错误的信息导致了错误的执行
     - 有人在执行的过程中制造障碍（所以要闷声发大财）
-- 成果被掠夺了（所以要尽力润到墙外）
+- 成果被掠夺了（~~所以要尽力润到墙外~~，要尽力寻找政治上的靠山，或自己成为靠山）
 - 自己的期望太高了（其实这个可以算在 知识的错误）
+- 被欺骗（积累的资源大幅减少，甚至负债，其实这个可以算在 知识或信息的错误）
 - 缺少必要的资源
 - 其它无法分类的意外？
     - 工具出现故障
     - 流程出现无法恢复的中断（例如，因为疫情被隔离从而无法继续工作）
+    - 生病（积累的资源都变成医药费了，甚至负债）
 
 如何避免失败
 - 信息使用多个信源，信息要交叉验证
@@ -270,6 +310,9 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
 - 从自己的实际出发建立期望
 - 保持健康的生活方式，尽力预防生病
 - 减少娱乐和无效社交
+
+要有足够的知识和信息才能发现机会，
+
 
 成功
     什么是成功
@@ -294,4 +337,18 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
 掌握暴力就能掌握机会的分配，这或许能解释黑社会为什么这么赚钱
 
 暴力不能直接产生资源
+
+
+马斯洛的需求层次理论（Maslow's hierarchy of needs）
+    生理需求（physiological needs）
+    安全需求（safety needs）
+    爱和归属的需求（love and belonging needs）
+    尊严需求（esteem needs）
+    认知需求（cognitive needs）
+    审美需求（aesthetic needs）
+    自我实现需求（need for self-actualization）
+    超自我实现（over actualization）
+
+
+安康富贵，事事如意
 
