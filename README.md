@@ -5,6 +5,9 @@
 远程地址填这个，提示输入密码时 输入 token
 https://crystal-mingmei@github.com/crystal-mingmei/How2Survive.git
 
+需要两个邮箱一个github账号，至少要打开两个浏览器
+
+
 git add README.md;
 git commit -m $(TZ="Asia/Shanghai" date +%g%m%d%H%M%z); git push;
 
@@ -109,6 +112,10 @@ TZ="Asia/Shanghai" date +%g%m%d%H%M%z
 李新野 人妻约会指南
 https://sinyalee.com
 
+道德资产
+
+
+
 理论大家都懂，但真的执行起来却依然很困难
 
 
@@ -164,6 +171,7 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
                 - 头顶
         - 眼睛
             - 近视
+            - 散光
             - 黑眼圈
             - 青光眼
             - 白内障
@@ -177,6 +185,8 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
             - 牙齿不齐
         - 口臭
         - 口腔溃疡
+        - 腺样体面容
+        - 中耳炎
         - 颈椎病
         - 感冒/流感/肺炎
         - 腋臭
@@ -232,6 +242,8 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
         - 阿尔茨海默病
         - 矮
         - 老人斑/脂溢性角化病/肝斑
+        - 脚气
+        - 灰指甲
 - 定时体检
     - 体检的项目？
 - 感到不舒服了要及时就医，生病了要及时就医
@@ -241,6 +253,10 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
 熬夜之后要怎么办？
     补救措施
 要尽早学习养生相关的知识
+
+病因学，通过病因学了解哪些习惯会致病
+
+压力 和 皮质醇 ？
 
 要尽早开始规划养老
 
@@ -329,6 +345,7 @@ FIRE运动（Financial Independence, Retire Early；即经济独立，提前退�
     子阳
     谜男
     泡学
+    柯李思、瑞恩、梵公子、Snake蛇哥
 相亲类型的博主
 其它值得关注的博主
 
@@ -434,8 +451,13 @@ https://www.puahan.com/
     自我实现需求（need for self-actualization）
     超自我实现（over actualization）
 
+安康富贵
+平安健康 富贵荣华
+出入平安 身体健康 富贵荣华 事事如意
 
+平安健康，富贵荣华
 安康富贵，事事如意
+心想事成
 
 
 关系（亲情/家庭，友情/朋友，爱情）
@@ -443,9 +465,14 @@ https://www.puahan.com/
 
 金钱 -> 权力 -> 释经
 
+国学 中医 女权 宗教 迷信 这些都是 释经？
+
 文科研究的对象都是围绕人
 理科研究的对象是世界
 世界中包含人
 所以理科包含文科
 
+
+多巴胺 内啡肽 催产素 血清素 苯基乙胺 费洛蒙 荷尔蒙
+前额叶 杏仁核
 
